@@ -1,6 +1,6 @@
 # Hi, I'm Euba Morenikeji!
 
-**Registered Dietitian | MSc Nutritional Sciences | Data for Health Enthusiast**
+**Registered Dietitian | Behavioural Researcher | Data - Driven Health Strategist**
 
 Welcome to my GitHub! I'm passionate about using data and research to drive better health outcomes. With a background in clinical nutrition, community-based interventions, and nutritional epidemiology, I’m now expanding my skills in **Python**, **R**, and **data science** to explore the connections between **diet**, and the **human health**.
 
