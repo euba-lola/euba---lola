@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm passionate about using data and research to drive bett
 Scraping and cleaning health and nutrition-related data from websites using Python. Automating repetitive tasks and storing clean datasets for analysis.
 
 ### [`Python-Basics`](https://github.com/euba-lola/Python-Basics)
-Foundational scripts and notebooks from my coding journey—control structures, data types, file I/O, and early data visualization exercises.
+Foundational scripts and notebooks from my coding journey, control structures, data types, file I/O, and early data visualization exercises.
 
 ---
 
