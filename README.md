@@ -44,7 +44,7 @@ Foundational scripts and notebooks from my coding journey, control structures, d
 
 ## Let's Connect
 
-- [LinkedIn]((https://www.linkedin.com/in/morenikeji-euba-92a125190/))
+- [LinkedIn](https://www.linkedin.com/in/morenikeji-euba-92a125190/)
 - [Email Me](morenikejieuba@gmail.com)
 
 I’m always open to learning, collaborating, or sharing ideas around nutrition, research, and tech for public good.
